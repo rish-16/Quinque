@@ -14,4 +14,4 @@
 
 ## License
 
-[MIT]()https://github.com/rish-16/Quinque/blob/master/LICENSE
+[MIT](https://github.com/rish-16/Quinque/blob/master/LICENSE)
